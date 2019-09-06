@@ -1,0 +1,16 @@
+Date.                  Start Time.  Project Name.  Time Spent On Project.
+_________________________________________________________________________
+
+Friday, May 17, 2019.  4:16:34 PM.  Stuff Things.  Time Spent: 0h 0m 5s
+Friday, May 17, 2019.  4:39:14 PM.  Current Task.  Time Spent: 0h 0m 0s
+Friday, May 17, 2019.  4:39:15 PM.  Current Task.  Time Spent: 0h 0m 0s
+Friday, May 17, 2019.  4:39:16 PM.  Current Task.  Time Spent: 0h 0m 1s
+Friday, May 17, 2019.  4:39:18 PM.  Current Task.  Time Spent: 0h 0m 1s
+Friday, May 17, 2019.  4:53:14 PM.  Current Task.  Time Spent: 0h 0m 3s
+Friday, May 17, 2019.  4:55:33 PM.  Current Task.  Time Spent: 0h 0m 23s
+Friday, May 17, 2019.  4:56:19 PM.  Current Task.  Time Spent: 0h 0m 0s
+Friday, May 17, 2019.  4:56:20 PM.  Current Task.  Time Spent: 0h 0m 0s
+Friday, May 17, 2019.  4:56:47 PM.  Current Task.  Time Spent: 0h 0m 22s
+Friday, May 17, 2019.  5:06:51 PM.  Current Task.  Time Spent: 0h 0m 3s
+Friday, May 17, 2019.  5:10:04 PM.  Current Task.  Time Spent: 0h 0m 2s
+Friday, May 17, 2019.  5:10:07 PM.  Current Task.  Time Spent: 0h 0m 0s

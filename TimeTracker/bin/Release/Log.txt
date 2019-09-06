@@ -1,0 +1,21 @@
+Date.                  Start Time.  Project Name.  Time Spent On Project.
+_________________________________________________________________________
+
+Thursday, July 10, 2019.  5:00:00 PM.  Install Light Fixture.  Time Spent: 0h 45m 0s
+Thursday, July 11, 2019.  12:48:14 PM.  Clear out kitchen and living room for flooring prep.  Time Spent: 8h 42m 47s
+Friday, July 12, 2019.  7:20:57 AM.  Remove kitchen tiles.  Time Spent: 10h 50m 9s
+Saturday, July 13, 2019.  8:02:32 AM.  Go to dump and pick flooring.  Time Spent: 10h 23m 22s
+Sunday, July 14, 2019.  10:18:55 AM.  Sunday work stuff.  Time Spent: 1h 31m 57s
+Monday, July 15, 2019.  9:17:47 AM.  Finish bricks by shed, sifting sand.  Time Spent: 6h 49m 46s
+Tuesday, July 16, 2019.  9:17:44 AM.  Sift dirt from bark, pine needles from rocks.  Time Spent: 8h 29m 43s
+Wednesday, July 17, 2019.  7:54:24 AM.  Repair fence holes.  Time Spent: 5h 32m 51s
+Wednesday, July 17, 2019.  3:25:26 PM.  Fix counter delamination.  Time Spent: 1h 33m 37s
+Thursday, July 18, 2019.  9:57:50 AM.  Finish repairing fence, tear up carpet.  Time Spent: 7h 31m 35s
+Wednesday, August 28, 2019.  12:36:15 PM.  Current Task.  Time Spent: 0h 0m 0s
+Wednesday, August 28, 2019.  12:36:16 PM.  Current Task.  Time Spent: 0h 0m 0s
+Wednesday, August 28, 2019.  12:36:16 PM.  Current Task.  Time Spent: 0h 0m 0s
+Wednesday, August 28, 2019.  12:36:17 PM.  Current Task.  Time Spent: 0h 0m 0s
+Wednesday, August 28, 2019.  12:36:17 PM.  Current Task.  Time Spent: 0h 0m 0s
+Wednesday, August 28, 2019.  12:36:48 PM.  Reading CS 2235.  Time Spent: 0h 24m 34s
+Wednesday, August 28, 2019.  4:52:40 PM.  Current Task.  Time Spent: 0h 0m 3s
+Wednesday, August 28, 2019.  4:52:48 PM.  playing wow.  Time Spent: 1h 48m 19s

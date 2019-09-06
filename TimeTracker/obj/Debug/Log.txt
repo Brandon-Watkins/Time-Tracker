@@ -1,0 +1,4 @@
+Date.                  Start Time.  Project Name.  Time Spent On Project.
+_________________________________________________________________________
+
+Friday, May 17, 2019.  5:11:00 PM.  Current Task.  Time Spent: 
